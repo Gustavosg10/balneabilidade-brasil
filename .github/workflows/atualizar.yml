@@ -1,15 +1,16 @@
-name: Atualizar Balneabilidade
+name: Atualizar Balneabilidade CETESB
 
 on:
+  workflow_dispatch:
   schedule:
-    - cron: '0 22 * * 4' # Toda quinta-feira às 22:00 UTC (19:00 BRT)
-  workflow_dispatch: # Permite rodar manualmente com 1 clique
+    # 18:00 UTC e 22:00 UTC de quinta-feira = 15:00 e 19:00 em Brasília
+    - cron: '0 18,22 * * 4'
 
 permissions:
   contents: write
 
 jobs:
-  build:
+  update-json:
     runs-on: ubuntu-latest
     steps:
       - name: Baixar repositório
@@ -20,15 +21,13 @@ jobs:
         with:
           python-version: '3.11'
 
-      - name: Instalar dependências
-        run: pip install requests
+      - name: Executar coleta da CETESB
+        run: python atualizar_balneabilidade.py
 
-      - name: Executar coletor
-        run: python coletar.py
-
-      - name: Salvar balneabilidade.json
+      - name: Commitar balneabilidade.json se houver mudança
         run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add balneabilidade.json
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Atualiza boletim semanal" && git push)
+          git diff --staged --quiet || git commit -m "Atualiza balneabilidade CETESB"
+          git push
