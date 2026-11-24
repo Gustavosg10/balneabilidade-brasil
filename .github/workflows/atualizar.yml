@@ -22,7 +22,7 @@ jobs:
           python-version: '3.12'
 
       - name: Executar coleta da CETESB
-        run: python -u atualizar_balneabilidade.py
+        run: python -u coletar.py
 
       - name: Commitar balneabilidade.json se houver mudança
         run: |
