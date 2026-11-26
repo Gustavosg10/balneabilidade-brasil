@@ -1,7 +1,7 @@
 {
   "fonte": "CETESB - Companhia Ambiental do Estado de São Paulo",
-  "boletim_data": "19/11/2026",
-  "gerado_em_utc": "2026-11-24T01:46:00Z",
+  "boletim_data": "26/11/2026",
+  "gerado_em_utc": "2026-11-26T18:43:36Z",
   "total_praias": 175,
   "municipios": {
     "UBATUBA": [
@@ -10,11 +10,11 @@
         "ordem": 1,
         "praia": "PICINGUABA",
         "ugrhi": "Litoral Norte",
-        "status": "Imprópria",
-        "propria": false,
+        "status": "Própria",
+        "propria": true,
         "amostra_inicio": "08/11/2026",
-        "amostra_final": "15/11/2026",
-        "atualizado_em": "19/11/2026"
+        "amostra_final": "22/11/2026",
+        "atualizado_em": "26/11/2026"
       },
       {
         "id": "UBLP039",
@@ -24,8 +24,8 @@
         "status": "Própria",
         "propria": true,
         "amostra_inicio": "08/11/2026",
-        "amostra_final": "15/11/2026",
-        "atualizado_em": "19/11/2026"
+        "amostra_final": "22/11/2026",
+        "atualizado_em": "26/11/2026"
       },
       {
         "id": "UBPR040",
@@ -35,8 +35,8 @@
         "status": "Própria",
         "propria": true,
         "amostra_inicio": "08/11/2026",
-        "amostra_final": "15/11/2026",
-        "atualizado_em": "19/11/2026"
+        "amostra_final": "22/11/2026",
+        "atualizado_em": "26/11/2026"
       },
       {
         "id": "UBFX042",
@@ -46,8 +46,8 @@
         "status": "Própria",
         "propria": true,
         "amostra_inicio": "08/11/2026",
-        "amostra_final": "15/11/2026",
-        "atualizado_em": "19/11/2026"
+        "amostra_final": "22/11/2026",
+        "atualizado_em": "26/11/2026"
       },
       {
         "id": "UBIM047",
@@ -57,19 +57,19 @@
         "status": "Própria",
         "propria": true,
         "amostra_inicio": "08/11/2026",
-        "amostra_final": "15/11/2026",
-        "atualizado_em": "19/11/2026"
+        "amostra_final": "22/11/2026",
+        "atualizado_em": "26/11/2026"
       },
       {
         "id": "UBRI048",
         "ordem": 6,
         "praia": "RIO ITAMAMBUCA",
         "ugrhi": "Litoral Norte",
-        "status": "Imprópria",
-        "propria": false,
+        "status": "Própria",
+        "propria": true,
         "amostra_inicio": "08/11/2026",
-        "amostra_final": "15/11/2026",
-        "atualizado_em": "19/11/2026"
+        "amostra_final": "22/11/2026",
+        "atualizado_em": "26/11/2026"
       },
       {
         "id": "UBVN053",
@@ -79,8 +79,8 @@
         "status": "Própria",
         "propria": true,
         "amostra_inicio": "08/11/2026",
-        "amostra_final": "15/11/2026",
-        "atualizado_em": "19/11/2026"
+        "amostra_final": "22/11/2026",
+        "atualizado_em": "26/11/2026"
       },
       {
         "id": "UBPA057",
@@ -90,8 +90,8 @@
         "status": "Própria",
         "propria": true,
         "amostra_inicio": "08/11/2026",
-        "amostra_final": "15/11/2026",
-        "atualizado_em": "19/11/2026"
+        "amostra_final": "22/11/2026",
+        "atualizado_em": "26/11/2026"
       },
       {
         "id": "UBIP060",
@@ -101,19 +101,19 @@
         "status": "Própria",
         "propria": true,
         "amostra_inicio": "08/11/2026",
-        "amostra_final": "15/11/2026",
-        "atualizado_em": "19/11/2026"
+        "amostra_final": "22/11/2026",
+        "atualizado_em": "26/11/2026"
       },
       {
         "id": "UBIT062",
         "ordem": 10,
         "praia": "ITAGUÁ",
         "ugrhi": "Litoral Norte",
-        "status": "Imprópria",
-        "propria": false,
+        "status": "Própria",
+        "propria": true,
         "amostra_inicio": "08/11/2026",
-        "amostra_final": "15/11/2026",
-        "atualizado_em": "19/11/2026"
+        "amostra_final": "22/11/2026",
+        "atualizado_em": "26/11/2026"
       },
       {
         "id": "UBIT063",
@@ -123,8 +123,8 @@
         "status": "Imprópria",
         "propria": false,
         "amostra_inicio": "08/11/2026",
-        "amostra_final": "15/11/2026",
-        "atualizado_em": "19/11/2026"
+        "amostra_final": "22/11/2026",
+        "atualizado_em": "26/11/2026"
       },
       {
         "id": "UBTN074",
@@ -134,8 +134,8 @@
         "status": "Própria",
         "propria": true,
         "amostra_inicio": "08/11/2026",
-        "amostra_final": "15/11/2026",
-        "atualizado_em": "19/11/2026"
+        "amostra_final": "22/11/2026",
+        "atualizado_em": "26/11/2026"
       },
       {
         "id": "UBVE072",
@@ -145,8 +145,8 @@
         "status": "Própria",
         "propria": true,
         "amostra_inicio": "08/11/2026",
-        "amostra_final": "15/11/2026",
-        "atualizado_em": "19/11/2026"
+        "amostra_final": "22/11/2026",
+        "atualizado_em": "26/11/2026"
       },
       {
         "id": "UBGD076",
@@ -156,8 +156,8 @@
         "status": "Própria",
         "propria": true,
         "amostra_inicio": "08/11/2026",
-        "amostra_final": "15/11/2026",
-        "atualizado_em": "19/11/2026"
+        "amostra_final": "22/11/2026",
+        "atualizado_em": "26/11/2026"
       },
       {
         "id": "UBTO078",
@@ -167,8 +167,8 @@
         "status": "Própria",
         "propria": true,
         "amostra_inicio": "08/11/2026",
-        "amostra_final": "15/11/2026",
-        "atualizado_em": "19/11/2026"
+        "amostra_final": "22/11/2026",
+        "atualizado_em": "26/11/2026"
       },
       {
         "id": "UBEN087",
@@ -178,8 +178,8 @@
         "status": "Imprópria",
         "propria": false,
         "amostra_inicio": "08/11/2026",
-        "amostra_final": "15/11/2026",
-        "atualizado_em": "19/11/2026"
+        "amostra_final": "22/11/2026",
+        "atualizado_em": "26/11/2026"
       },
       {
         "id": "UBSR089",
@@ -189,8 +189,8 @@
         "status": "Própria",
         "propria": true,
         "amostra_inicio": "08/11/2026",
-        "amostra_final": "15/11/2026",
-        "atualizado_em": "19/11/2026"
+        "amostra_final": "22/11/2026",
+        "atualizado_em": "26/11/2026"
       },
       {
         "id": "UBPM090",
@@ -200,8 +200,8 @@
         "status": "Imprópria",
         "propria": false,
         "amostra_inicio": "08/11/2026",
-        "amostra_final": "15/11/2026",
-        "atualizado_em": "19/11/2026"
+        "amostra_final": "22/11/2026",
+        "atualizado_em": "26/11/2026"
       },
       {
         "id": "UBSN102",
@@ -211,8 +211,8 @@
         "status": "Própria",
         "propria": true,
         "amostra_inicio": "08/11/2026",
-        "amostra_final": "15/11/2026",
-        "atualizado_em": "19/11/2026"
+        "amostra_final": "22/11/2026",
+        "atualizado_em": "26/11/2026"
       },
       {
         "id": "UBLZ104",
@@ -222,8 +222,8 @@
         "status": "Própria",
         "propria": true,
         "amostra_inicio": "08/11/2026",
-        "amostra_final": "15/11/2026",
-        "atualizado_em": "19/11/2026"
+        "amostra_final": "22/11/2026",
+        "atualizado_em": "26/11/2026"
       },
       {
         "id": "UBDD105",
@@ -233,8 +233,8 @@
         "status": "Própria",
         "propria": true,
         "amostra_inicio": "08/11/2026",
-        "amostra_final": "15/11/2026",
-        "atualizado_em": "19/11/2026"
+        "amostra_final": "22/11/2026",
+        "atualizado_em": "26/11/2026"
       },
       {
         "id": "UBDU109",
@@ -244,8 +244,8 @@
         "status": "Própria",
         "propria": true,
         "amostra_inicio": "08/11/2026",
-        "amostra_final": "15/11/2026",
-        "atualizado_em": "19/11/2026"
+        "amostra_final": "22/11/2026",
+        "atualizado_em": "26/11/2026"
       },
       {
         "id": "UBFO116",
@@ -255,19 +255,19 @@
         "status": "Própria",
         "propria": true,
         "amostra_inicio": "08/11/2026",
-        "amostra_final": "15/11/2026",
-        "atualizado_em": "19/11/2026"
+        "amostra_final": "22/11/2026",
+        "atualizado_em": "26/11/2026"
       },
       {
         "id": "UBLG123",
         "ordem": 24,
         "praia": "LAGOINHA - AV. E. VELHO",
         "ugrhi": "Litoral Norte",
-        "status": "Imprópria",
-        "propria": false,
+        "status": "Própria",
+        "propria": true,
         "amostra_inicio": "08/11/2026",
-        "amostra_final": "15/11/2026",
-        "atualizado_em": "19/11/2026"
+        "amostra_final": "22/11/2026",
+        "atualizado_em": "26/11/2026"
       },
       {
         "id": "UBLG125",
@@ -277,8 +277,8 @@
         "status": "Própria",
         "propria": true,
         "amostra_inicio": "08/11/2026",
-        "amostra_final": "15/11/2026",
-        "atualizado_em": "19/11/2026"
+        "amostra_final": "22/11/2026",
+        "atualizado_em": "26/11/2026"
       },
       {
         "id": "UBSP126",
@@ -288,8 +288,8 @@
         "status": "Própria",
         "propria": true,
         "amostra_inicio": "08/11/2026",
-        "amostra_final": "15/11/2026",
-        "atualizado_em": "19/11/2026"
+        "amostra_final": "22/11/2026",
+        "atualizado_em": "26/11/2026"
       },
       {
         "id": "UBMA127",
@@ -299,8 +299,8 @@
         "status": "Própria",
         "propria": true,
         "amostra_inicio": "08/11/2026",
-        "amostra_final": "15/11/2026",
-        "atualizado_em": "19/11/2026"
+        "amostra_final": "22/11/2026",
+        "atualizado_em": "26/11/2026"
       },
       {
         "id": "UBPU128",
@@ -310,8 +310,8 @@
         "status": "Própria",
         "propria": true,
         "amostra_inicio": "08/11/2026",
-        "amostra_final": "15/11/2026",
-        "atualizado_em": "19/11/2026"
+        "amostra_final": "22/11/2026",
+        "atualizado_em": "26/11/2026"
       },
       {
         "id": "IAFO097",
@@ -321,63 +321,8 @@
         "status": "Própria",
         "propria": true,
         "amostra_inicio": "08/11/2026",
-        "amostra_final": "15/11/2026",
-        "atualizado_em": "19/11/2026"
-      },
-      {
-        "id": "IASU098",
-        "ordem": null,
-        "praia": "PRAIA DO SUL- ILHA ANCHIETA",
-        "ugrhi": "Litoral Norte",
-        "status": "Própria",
-        "propria": true,
-        "amostra_inicio": "08/11/2026",
-        "amostra_final": "15/11/2026",
-        "atualizado_em": "19/11/2026"
-      },
-      {
-        "id": "IASA094",
-        "ordem": null,
-        "praia": "PRAIA DO SAPATEIRO- ILHA ANCHIETA",
-        "ugrhi": "Litoral Norte",
-        "status": "Própria",
-        "propria": true,
-        "amostra_inicio": "08/11/2026",
-        "amostra_final": "15/11/2026",
-        "atualizado_em": "19/11/2026"
-      },
-      {
-        "id": "IAPA093",
-        "ordem": null,
-        "praia": "PRAIA DAS PALMAS- ILHA ANCHIETA",
-        "ugrhi": "Litoral Norte",
-        "status": "Própria",
-        "propria": true,
-        "amostra_inicio": "08/11/2026",
-        "amostra_final": "15/11/2026",
-        "atualizado_em": "19/11/2026"
-      },
-      {
-        "id": "IAEN096",
-        "ordem": null,
-        "praia": "PRAINHA DO ENGENHO- ILHA ANCHIETA",
-        "ugrhi": "Litoral Norte",
-        "status": "Própria",
-        "propria": true,
-        "amostra_inicio": "08/11/2026",
-        "amostra_final": "15/11/2026",
-        "atualizado_em": "19/11/2026"
-      },
-      {
-        "id": "IALE099",
-        "ordem": null,
-        "praia": "PRAINHA DO LESTE- ILHA ANCHIETA",
-        "ugrhi": "Litoral Norte",
-        "status": "Própria",
-        "propria": true,
-        "amostra_inicio": "08/11/2026",
-        "amostra_final": "15/11/2026",
-        "atualizado_em": "19/11/2026"
+        "amostra_final": "22/11/2026",
+        "atualizado_em": "26/11/2026"
       },
       {
         "id": "IAPR095",
@@ -387,8 +332,63 @@
         "status": "Própria",
         "propria": true,
         "amostra_inicio": "08/11/2026",
-        "amostra_final": "15/11/2026",
-        "atualizado_em": "19/11/2026"
+        "amostra_final": "22/11/2026",
+        "atualizado_em": "26/11/2026"
+      },
+      {
+        "id": "IASU098",
+        "ordem": null,
+        "praia": "PRAIA DO SUL- ILHA ANCHIETA",
+        "ugrhi": "Litoral Norte",
+        "status": "Própria",
+        "propria": true,
+        "amostra_inicio": "08/11/2026",
+        "amostra_final": "22/11/2026",
+        "atualizado_em": "26/11/2026"
+      },
+      {
+        "id": "IALE099",
+        "ordem": null,
+        "praia": "PRAINHA DO LESTE- ILHA ANCHIETA",
+        "ugrhi": "Litoral Norte",
+        "status": "Própria",
+        "propria": true,
+        "amostra_inicio": "08/11/2026",
+        "amostra_final": "22/11/2026",
+        "atualizado_em": "26/11/2026"
+      },
+      {
+        "id": "IAPA093",
+        "ordem": null,
+        "praia": "PRAIA DAS PALMAS- ILHA ANCHIETA",
+        "ugrhi": "Litoral Norte",
+        "status": "Própria",
+        "propria": true,
+        "amostra_inicio": "08/11/2026",
+        "amostra_final": "22/11/2026",
+        "atualizado_em": "26/11/2026"
+      },
+      {
+        "id": "IASA094",
+        "ordem": null,
+        "praia": "PRAIA DO SAPATEIRO- ILHA ANCHIETA",
+        "ugrhi": "Litoral Norte",
+        "status": "Própria",
+        "propria": true,
+        "amostra_inicio": "08/11/2026",
+        "amostra_final": "22/11/2026",
+        "atualizado_em": "26/11/2026"
+      },
+      {
+        "id": "IAEN096",
+        "ordem": null,
+        "praia": "PRAINHA DO ENGENHO- ILHA ANCHIETA",
+        "ugrhi": "Litoral Norte",
+        "status": "Própria",
+        "propria": true,
+        "amostra_inicio": "08/11/2026",
+        "amostra_final": "22/11/2026",
+        "atualizado_em": "26/11/2026"
       }
     ],
     "CARAGUATATUBA": [
@@ -400,8 +400,8 @@
         "status": "Própria",
         "propria": true,
         "amostra_inicio": "08/11/2026",
-        "amostra_final": "15/11/2026",
-        "atualizado_em": "19/11/2026"
+        "amostra_final": "22/11/2026",
+        "atualizado_em": "26/11/2026"
       },
       {
         "id": "CRTB149",
@@ -411,8 +411,8 @@
         "status": "Própria",
         "propria": true,
         "amostra_inicio": "08/11/2026",
-        "amostra_final": "15/11/2026",
-        "atualizado_em": "19/11/2026"
+        "amostra_final": "22/11/2026",
+        "atualizado_em": "26/11/2026"
       },
       {
         "id": "CRMO151",
@@ -422,8 +422,8 @@
         "status": "Própria",
         "propria": true,
         "amostra_inicio": "08/11/2026",
-        "amostra_final": "15/11/2026",
-        "atualizado_em": "19/11/2026"
+        "amostra_final": "22/11/2026",
+        "atualizado_em": "26/11/2026"
       },
       {
         "id": "CRCO153",
@@ -433,8 +433,8 @@
         "status": "Imprópria",
         "propria": false,
         "amostra_inicio": "08/11/2026",
-        "amostra_final": "15/11/2026",
-        "atualizado_em": "19/11/2026"
+        "amostra_final": "22/11/2026",
+        "atualizado_em": "26/11/2026"
       },
       {
         "id": "CRMA154",
@@ -444,8 +444,8 @@
         "status": "Própria",
         "propria": true,
         "amostra_inicio": "08/11/2026",
-        "amostra_final": "15/11/2026",
-        "atualizado_em": "19/11/2026"
+        "amostra_final": "22/11/2026",
+        "atualizado_em": "26/11/2026"
       },
       {
         "id": "CRCA158",
@@ -455,8 +455,8 @@
         "status": "Própria",
         "propria": true,
         "amostra_inicio": "08/11/2026",
-        "amostra_final": "15/11/2026",
-        "atualizado_em": "19/11/2026"
+        "amostra_final": "22/11/2026",
+        "atualizado_em": "26/11/2026"
       },
       {
         "id": "CRLA160",
@@ -466,8 +466,8 @@
         "status": "Própria",
         "propria": true,
         "amostra_inicio": "08/11/2026",
-        "amostra_final": "15/11/2026",
-        "atualizado_em": "19/11/2026"
+        "amostra_final": "22/11/2026",
+        "atualizado_em": "26/11/2026"
       },
       {
         "id": "CRMS163",
@@ -477,8 +477,8 @@
         "status": "Própria",
         "propria": true,
         "amostra_inicio": "08/11/2026",
-        "amostra_final": "15/11/2026",
-        "atualizado_em": "19/11/2026"
+        "amostra_final": "22/11/2026",
+        "atualizado_em": "26/11/2026"
       },
       {
         "id": "CRPR165",
@@ -488,19 +488,19 @@
         "status": "Imprópria",
         "propria": false,
         "amostra_inicio": "08/11/2026",
-        "amostra_final": "15/11/2026",
-        "atualizado_em": "19/11/2026"
+        "amostra_final": "22/11/2026",
+        "atualizado_em": "26/11/2026"
       },
       {
         "id": "CRCE167",
         "ordem": 38,
         "praia": "CENTRO",
         "ugrhi": "Litoral Norte",
-        "status": "Imprópria",
-        "propria": false,
+        "status": "Própria",
+        "propria": true,
         "amostra_inicio": "08/11/2026",
-        "amostra_final": "15/11/2026",
-        "atualizado_em": "19/11/2026"
+        "amostra_final": "22/11/2026",
+        "atualizado_em": "26/11/2026"
       },
       {
         "id": "CRIN168",
@@ -510,8 +510,8 @@
         "status": "Própria",
         "propria": true,
         "amostra_inicio": "08/11/2026",
-        "amostra_final": "15/11/2026",
-        "atualizado_em": "19/11/2026"
+        "amostra_final": "22/11/2026",
+        "atualizado_em": "26/11/2026"
       },
       {
         "id": "CRPB169",
@@ -521,8 +521,8 @@
         "status": "Própria",
         "propria": true,
         "amostra_inicio": "08/11/2026",
-        "amostra_final": "15/11/2026",
-        "atualizado_em": "19/11/2026"
+        "amostra_final": "22/11/2026",
+        "atualizado_em": "26/11/2026"
       },
       {
         "id": "CRPM172",
@@ -532,8 +532,8 @@
         "status": "Própria",
         "propria": true,
         "amostra_inicio": "08/11/2026",
-        "amostra_final": "15/11/2026",
-        "atualizado_em": "19/11/2026"
+        "amostra_final": "22/11/2026",
+        "atualizado_em": "26/11/2026"
       },
       {
         "id": "CRPN175",
@@ -543,8 +543,8 @@
         "status": "Própria",
         "propria": true,
         "amostra_inicio": "08/11/2026",
-        "amostra_final": "15/11/2026",
-        "atualizado_em": "19/11/2026"
+        "amostra_final": "22/11/2026",
+        "atualizado_em": "26/11/2026"
       }
     ],
     "SÃO SEBASTIÃO": [
@@ -555,9 +555,9 @@
         "ugrhi": "Litoral Norte",
         "status": "Própria",
         "propria": true,
-        "amostra_inicio": "15/11/2026",
-        "amostra_final": "15/11/2026",
-        "atualizado_em": "19/11/2026"
+        "amostra_inicio": "22/11/2026",
+        "amostra_final": "22/11/2026",
+        "atualizado_em": "26/11/2026"
       },
       {
         "id": "SSCI183",
@@ -566,9 +566,9 @@
         "ugrhi": "Litoral Norte",
         "status": "Própria",
         "propria": true,
-        "amostra_inicio": "15/11/2026",
-        "amostra_final": "15/11/2026",
-        "atualizado_em": "19/11/2026"
+        "amostra_inicio": "22/11/2026",
+        "amostra_final": "22/11/2026",
+        "atualizado_em": "26/11/2026"
       },
       {
         "id": "SSSF187",
@@ -577,9 +577,9 @@
         "ugrhi": "Litoral Norte",
         "status": "Própria",
         "propria": true,
-        "amostra_inicio": "15/11/2026",
-        "amostra_final": "15/11/2026",
-        "atualizado_em": "19/11/2026"
+        "amostra_inicio": "22/11/2026",
+        "amostra_final": "22/11/2026",
+        "atualizado_em": "26/11/2026"
       },
       {
         "id": "SSAR189",
@@ -588,20 +588,20 @@
         "ugrhi": "Litoral Norte",
         "status": "Própria",
         "propria": true,
-        "amostra_inicio": "15/11/2026",
-        "amostra_final": "15/11/2026",
-        "atualizado_em": "19/11/2026"
+        "amostra_inicio": "22/11/2026",
+        "amostra_final": "22/11/2026",
+        "atualizado_em": "26/11/2026"
       },
       {
         "id": "SSPC190",
         "ordem": 47,
         "praia": "PONTAL DA CRUZ",
         "ugrhi": "Litoral Norte",
-        "status": "Imprópria",
-        "propria": false,
-        "amostra_inicio": "15/11/2026",
-        "amostra_final": "15/11/2026",
-        "atualizado_em": "19/11/2026"
+        "status": "Própria",
+        "propria": true,
+        "amostra_inicio": "22/11/2026",
+        "amostra_final": "22/11/2026",
+        "atualizado_em": "26/11/2026"
       },
       {
         "id": "SSDE191",
@@ -610,9 +610,9 @@
         "ugrhi": "Litoral Norte",
         "status": "Própria",
         "propria": true,
-        "amostra_inicio": "15/11/2026",
-        "amostra_final": "15/11/2026",
-        "atualizado_em": "19/11/2026"
+        "amostra_inicio": "22/11/2026",
+        "amostra_final": "22/11/2026",
+        "atualizado_em": "26/11/2026"
       },
       {
         "id": "SSPG192",
@@ -621,9 +621,9 @@
         "ugrhi": "Litoral Norte",
         "status": "Própria",
         "propria": true,
-        "amostra_inicio": "15/11/2026",
-        "amostra_final": "15/11/2026",
-        "atualizado_em": "19/11/2026"
+        "amostra_inicio": "22/11/2026",
+        "amostra_final": "22/11/2026",
+        "atualizado_em": "26/11/2026"
       },
       {
         "id": "SSPN197",
@@ -632,9 +632,9 @@
         "ugrhi": "Litoral Norte",
         "status": "Própria",
         "propria": true,
-        "amostra_inicio": "15/11/2026",
-        "amostra_final": "15/11/2026",
-        "atualizado_em": "19/11/2026"
+        "amostra_inicio": "22/11/2026",
+        "amostra_final": "22/11/2026",
+        "atualizado_em": "26/11/2026"
       },
       {
         "id": "SSGD199",
@@ -643,9 +643,9 @@
         "ugrhi": "Litoral Norte",
         "status": "Própria",
         "propria": true,
-        "amostra_inicio": "15/11/2026",
-        "amostra_final": "15/11/2026",
-        "atualizado_em": "19/11/2026"
+        "amostra_inicio": "22/11/2026",
+        "amostra_final": "22/11/2026",
+        "atualizado_em": "26/11/2026"
       },
       {
         "id": "SSBA202",
@@ -654,9 +654,9 @@
         "ugrhi": "Litoral Norte",
         "status": "Própria",
         "propria": true,
-        "amostra_inicio": "15/11/2026",
-        "amostra_final": "15/11/2026",
-        "atualizado_em": "19/11/2026"
+        "amostra_inicio": "22/11/2026",
+        "amostra_final": "22/11/2026",
+        "atualizado_em": "26/11/2026"
       },
       {
         "id": "SSGU205",
@@ -665,9 +665,9 @@
         "ugrhi": "Litoral Norte",
         "status": "Própria",
         "propria": true,
-        "amostra_inicio": "15/11/2026",
-        "amostra_final": "15/11/2026",
-        "atualizado_em": "19/11/2026"
+        "amostra_inicio": "22/11/2026",
+        "amostra_final": "22/11/2026",
+        "atualizado_em": "26/11/2026"
       },
       {
         "id": "SSTG214",
@@ -676,9 +676,9 @@
         "ugrhi": "Litoral Norte",
         "status": "Própria",
         "propria": true,
-        "amostra_inicio": "15/11/2026",
-        "amostra_final": "15/11/2026",
-        "atualizado_em": "19/11/2026"
+        "amostra_inicio": "22/11/2026",
+        "amostra_final": "22/11/2026",
+        "atualizado_em": "26/11/2026"
       },
       {
         "id": "SSTP219",
@@ -687,9 +687,9 @@
         "ugrhi": "Litoral Norte",
         "status": "Imprópria",
         "propria": false,
-        "amostra_inicio": "15/11/2026",
-        "amostra_final": "15/11/2026",
-        "atualizado_em": "19/11/2026"
+        "amostra_inicio": "22/11/2026",
+        "amostra_final": "22/11/2026",
+        "atualizado_em": "26/11/2026"
       },
       {
         "id": "SSST221",
@@ -698,9 +698,9 @@
         "ugrhi": "Litoral Norte",
         "status": "Própria",
         "propria": true,
-        "amostra_inicio": "15/11/2026",
-        "amostra_final": "15/11/2026",
-        "atualizado_em": "19/11/2026"
+        "amostra_inicio": "22/11/2026",
+        "amostra_final": "22/11/2026",
+        "atualizado_em": "26/11/2026"
       },
       {
         "id": "SSPA223",
@@ -709,9 +709,9 @@
         "ugrhi": "Litoral Norte",
         "status": "Própria",
         "propria": true,
-        "amostra_inicio": "15/11/2026",
-        "amostra_final": "15/11/2026",
-        "atualizado_em": "19/11/2026"
+        "amostra_inicio": "22/11/2026",
+        "amostra_final": "22/11/2026",
+        "atualizado_em": "26/11/2026"
       },
       {
         "id": "SSMA226",
@@ -720,9 +720,9 @@
         "ugrhi": "Litoral Norte",
         "status": "Própria",
         "propria": true,
-        "amostra_inicio": "15/11/2026",
-        "amostra_final": "15/11/2026",
-        "atualizado_em": "19/11/2026"
+        "amostra_inicio": "22/11/2026",
+        "amostra_final": "22/11/2026",
+        "atualizado_em": "26/11/2026"
       },
       {
         "id": "SSMA228",
@@ -731,9 +731,9 @@
         "ugrhi": "Litoral Norte",
         "status": "Própria",
         "propria": true,
-        "amostra_inicio": "15/11/2026",
-        "amostra_final": "15/11/2026",
-        "atualizado_em": "19/11/2026"
+        "amostra_inicio": "22/11/2026",
+        "amostra_final": "22/11/2026",
+        "atualizado_em": "26/11/2026"
       },
       {
         "id": "SSBO235",
@@ -742,9 +742,9 @@
         "ugrhi": "Litoral Norte",
         "status": "Própria",
         "propria": true,
-        "amostra_inicio": "15/11/2026",
-        "amostra_final": "15/11/2026",
-        "atualizado_em": "19/11/2026"
+        "amostra_inicio": "22/11/2026",
+        "amostra_final": "22/11/2026",
+        "atualizado_em": "26/11/2026"
       },
       {
         "id": "SSCB238",
@@ -753,9 +753,9 @@
         "ugrhi": "Litoral Norte",
         "status": "Própria",
         "propria": true,
-        "amostra_inicio": "15/11/2026",
-        "amostra_final": "15/11/2026",
-        "atualizado_em": "19/11/2026"
+        "amostra_inicio": "22/11/2026",
+        "amostra_final": "22/11/2026",
+        "atualizado_em": "26/11/2026"
       },
       {
         "id": "SSCA239",
@@ -764,9 +764,9 @@
         "ugrhi": "Litoral Norte",
         "status": "Própria",
         "propria": true,
-        "amostra_inicio": "15/11/2026",
-        "amostra_final": "15/11/2026",
-        "atualizado_em": "19/11/2026"
+        "amostra_inicio": "22/11/2026",
+        "amostra_final": "22/11/2026",
+        "atualizado_em": "26/11/2026"
       },
       {
         "id": "SSBL243",
@@ -775,9 +775,9 @@
         "ugrhi": "Litoral Norte",
         "status": "Própria",
         "propria": true,
-        "amostra_inicio": "15/11/2026",
-        "amostra_final": "15/11/2026",
-        "atualizado_em": "19/11/2026"
+        "amostra_inicio": "22/11/2026",
+        "amostra_final": "22/11/2026",
+        "atualizado_em": "26/11/2026"
       },
       {
         "id": "SSSA247",
@@ -786,9 +786,9 @@
         "ugrhi": "Litoral Norte",
         "status": "Própria",
         "propria": true,
-        "amostra_inicio": "15/11/2026",
-        "amostra_final": "15/11/2026",
-        "atualizado_em": "19/11/2026"
+        "amostra_inicio": "22/11/2026",
+        "amostra_final": "22/11/2026",
+        "atualizado_em": "26/11/2026"
       },
       {
         "id": "SSPR248",
@@ -797,9 +797,9 @@
         "ugrhi": "Litoral Norte",
         "status": "Própria",
         "propria": true,
-        "amostra_inicio": "15/11/2026",
-        "amostra_final": "15/11/2026",
-        "atualizado_em": "19/11/2026"
+        "amostra_inicio": "22/11/2026",
+        "amostra_final": "22/11/2026",
+        "atualizado_em": "26/11/2026"
       },
       {
         "id": "SSJU250",
@@ -808,9 +808,9 @@
         "ugrhi": "Litoral Norte",
         "status": "Própria",
         "propria": true,
-        "amostra_inicio": "15/11/2026",
-        "amostra_final": "15/11/2026",
-        "atualizado_em": "19/11/2026"
+        "amostra_inicio": "22/11/2026",
+        "amostra_final": "22/11/2026",
+        "atualizado_em": "26/11/2026"
       },
       {
         "id": "SSJU251",
@@ -819,9 +819,9 @@
         "ugrhi": "Litoral Norte",
         "status": "Própria",
         "propria": true,
-        "amostra_inicio": "15/11/2026",
-        "amostra_final": "15/11/2026",
-        "atualizado_em": "19/11/2026"
+        "amostra_inicio": "22/11/2026",
+        "amostra_final": "22/11/2026",
+        "atualizado_em": "26/11/2026"
       },
       {
         "id": "SSUN255",
@@ -830,9 +830,9 @@
         "ugrhi": "Litoral Norte",
         "status": "Própria",
         "propria": true,
-        "amostra_inicio": "15/11/2026",
-        "amostra_final": "15/11/2026",
-        "atualizado_em": "19/11/2026"
+        "amostra_inicio": "22/11/2026",
+        "amostra_final": "22/11/2026",
+        "atualizado_em": "26/11/2026"
       },
       {
         "id": "SSEG257",
@@ -841,9 +841,9 @@
         "ugrhi": "Litoral Norte",
         "status": "Própria",
         "propria": true,
-        "amostra_inicio": "15/11/2026",
-        "amostra_final": "15/11/2026",
-        "atualizado_em": "19/11/2026"
+        "amostra_inicio": "22/11/2026",
+        "amostra_final": "22/11/2026",
+        "atualizado_em": "26/11/2026"
       },
       {
         "id": "SSJN258",
@@ -852,9 +852,9 @@
         "ugrhi": "Litoral Norte",
         "status": "Própria",
         "propria": true,
-        "amostra_inicio": "15/11/2026",
-        "amostra_final": "15/11/2026",
-        "atualizado_em": "19/11/2026"
+        "amostra_inicio": "22/11/2026",
+        "amostra_final": "22/11/2026",
+        "atualizado_em": "26/11/2026"
       },
       {
         "id": "SSBR262",
@@ -863,9 +863,9 @@
         "ugrhi": "Litoral Norte",
         "status": "Própria",
         "propria": true,
-        "amostra_inicio": "15/11/2026",
-        "amostra_final": "15/11/2026",
-        "atualizado_em": "19/11/2026"
+        "amostra_inicio": "22/11/2026",
+        "amostra_final": "22/11/2026",
+        "atualizado_em": "26/11/2026"
       },
       {
         "id": "SSBR264",
@@ -874,9 +874,9 @@
         "ugrhi": "Litoral Norte",
         "status": "Própria",
         "propria": true,
-        "amostra_inicio": "15/11/2026",
-        "amostra_final": "15/11/2026",
-        "atualizado_em": "19/11/2026"
+        "amostra_inicio": "22/11/2026",
+        "amostra_final": "22/11/2026",
+        "atualizado_em": "26/11/2026"
       }
     ],
     "ILHABELA": [
@@ -887,20 +887,20 @@
         "ugrhi": "Litoral Norte",
         "status": "Própria",
         "propria": true,
-        "amostra_inicio": "15/11/2026",
-        "amostra_final": "15/11/2026",
-        "atualizado_em": "19/11/2026"
+        "amostra_inicio": "22/11/2026",
+        "amostra_final": "22/11/2026",
+        "atualizado_em": "26/11/2026"
       },
       {
         "id": "IBPI185",
         "ordem": 74,
         "praia": "PINTO",
         "ugrhi": "Litoral Norte",
-        "status": "Imprópria",
-        "propria": false,
-        "amostra_inicio": "15/11/2026",
-        "amostra_final": "15/11/2026",
-        "atualizado_em": "19/11/2026"
+        "status": "Própria",
+        "propria": true,
+        "amostra_inicio": "22/11/2026",
+        "amostra_final": "22/11/2026",
+        "atualizado_em": "26/11/2026"
       },
       {
         "id": "IBSN186",
@@ -909,9 +909,9 @@
         "ugrhi": "Litoral Norte",
         "status": "Própria",
         "propria": true,
-        "amostra_inicio": "15/11/2026",
-        "amostra_final": "15/11/2026",
-        "atualizado_em": "19/11/2026"
+        "amostra_inicio": "22/11/2026",
+        "amostra_final": "22/11/2026",
+        "atualizado_em": "26/11/2026"
       },
       {
         "id": "IBSI188",
@@ -920,20 +920,20 @@
         "ugrhi": "Litoral Norte",
         "status": "Própria",
         "propria": true,
-        "amostra_inicio": "15/11/2026",
-        "amostra_final": "15/11/2026",
-        "atualizado_em": "19/11/2026"
+        "amostra_inicio": "22/11/2026",
+        "amostra_final": "22/11/2026",
+        "atualizado_em": "26/11/2026"
       },
       {
         "id": "IBVI190",
         "ordem": 77,
         "praia": "VIANA",
         "ugrhi": "Litoral Norte",
-        "status": "Imprópria",
-        "propria": false,
-        "amostra_inicio": "15/11/2026",
-        "amostra_final": "15/11/2026",
-        "atualizado_em": "19/11/2026"
+        "status": "Própria",
+        "propria": true,
+        "amostra_inicio": "22/11/2026",
+        "amostra_final": "22/11/2026",
+        "atualizado_em": "26/11/2026"
       },
       {
         "id": "IBBN190",
@@ -942,9 +942,9 @@
         "ugrhi": "Litoral Norte",
         "status": "Própria",
         "propria": true,
-        "amostra_inicio": "15/11/2026",
-        "amostra_final": "15/11/2026",
-        "atualizado_em": "19/11/2026"
+        "amostra_inicio": "22/11/2026",
+        "amostra_final": "22/11/2026",
+        "atualizado_em": "26/11/2026"
       },
       {
         "id": "IBBS191",
@@ -953,9 +953,9 @@
         "ugrhi": "Litoral Norte",
         "status": "Própria",
         "propria": true,
-        "amostra_inicio": "15/11/2026",
-        "amostra_final": "15/11/2026",
-        "atualizado_em": "19/11/2026"
+        "amostra_inicio": "22/11/2026",
+        "amostra_final": "22/11/2026",
+        "atualizado_em": "26/11/2026"
       },
       {
         "id": "IBSC191",
@@ -964,9 +964,9 @@
         "ugrhi": "Litoral Norte",
         "status": "Própria",
         "propria": true,
-        "amostra_inicio": "15/11/2026",
-        "amostra_final": "15/11/2026",
-        "atualizado_em": "19/11/2026"
+        "amostra_inicio": "22/11/2026",
+        "amostra_final": "22/11/2026",
+        "atualizado_em": "26/11/2026"
       },
       {
         "id": "IBEA192",
@@ -975,9 +975,9 @@
         "ugrhi": "Litoral Norte",
         "status": "Própria",
         "propria": true,
-        "amostra_inicio": "15/11/2026",
-        "amostra_final": "15/11/2026",
-        "atualizado_em": "19/11/2026"
+        "amostra_inicio": "22/11/2026",
+        "amostra_final": "22/11/2026",
+        "atualizado_em": "26/11/2026"
       },
       {
         "id": "IBIQ192",
@@ -986,20 +986,20 @@
         "ugrhi": "Litoral Norte",
         "status": "Imprópria",
         "propria": false,
-        "amostra_inicio": "15/11/2026",
-        "amostra_final": "15/11/2026",
-        "atualizado_em": "19/11/2026"
+        "amostra_inicio": "22/11/2026",
+        "amostra_final": "22/11/2026",
+        "atualizado_em": "26/11/2026"
       },
       {
         "id": "IBIT193",
         "ordem": 83,
         "praia": "ITAGUAÇU",
         "ugrhi": "Litoral Norte",
-        "status": "Imprópria",
-        "propria": false,
-        "amostra_inicio": "15/11/2026",
-        "amostra_final": "15/11/2026",
-        "atualizado_em": "19/11/2026"
+        "status": "Própria",
+        "propria": true,
+        "amostra_inicio": "22/11/2026",
+        "amostra_final": "22/11/2026",
+        "atualizado_em": "26/11/2026"
       },
       {
         "id": "IBPE194",
@@ -1008,20 +1008,20 @@
         "ugrhi": "Litoral Norte",
         "status": "Própria",
         "propria": true,
-        "amostra_inicio": "15/11/2026",
-        "amostra_final": "15/11/2026",
-        "atualizado_em": "19/11/2026"
+        "amostra_inicio": "22/11/2026",
+        "amostra_final": "22/11/2026",
+        "atualizado_em": "26/11/2026"
       },
       {
         "id": "IBIC195",
         "ordem": 85,
         "praia": "ILHA DAS CABRAS",
         "ugrhi": "Litoral Norte",
-        "status": "Imprópria",
-        "propria": false,
-        "amostra_inicio": "15/11/2026",
-        "amostra_final": "15/11/2026",
-        "atualizado_em": "19/11/2026"
+        "status": "Própria",
+        "propria": true,
+        "amostra_inicio": "22/11/2026",
+        "amostra_final": "22/11/2026",
+        "atualizado_em": "26/11/2026"
       },
       {
         "id": "IBPO197",
@@ -1030,9 +1030,9 @@
         "ugrhi": "Litoral Norte",
         "status": "Própria",
         "propria": true,
-        "amostra_inicio": "15/11/2026",
-        "amostra_final": "15/11/2026",
-        "atualizado_em": "19/11/2026"
+        "amostra_inicio": "22/11/2026",
+        "amostra_final": "22/11/2026",
+        "atualizado_em": "26/11/2026"
       },
       {
         "id": "IBFE202",
@@ -1041,9 +1041,9 @@
         "ugrhi": "Litoral Norte",
         "status": "Própria",
         "propria": true,
-        "amostra_inicio": "15/11/2026",
-        "amostra_final": "15/11/2026",
-        "atualizado_em": "19/11/2026"
+        "amostra_inicio": "22/11/2026",
+        "amostra_final": "22/11/2026",
+        "atualizado_em": "26/11/2026"
       },
       {
         "id": "IBJU202",
@@ -1052,9 +1052,9 @@
         "ugrhi": "Litoral Norte",
         "status": "Própria",
         "propria": true,
-        "amostra_inicio": "15/11/2026",
-        "amostra_final": "15/11/2026",
-        "atualizado_em": "19/11/2026"
+        "amostra_inicio": "22/11/2026",
+        "amostra_final": "22/11/2026",
+        "atualizado_em": "26/11/2026"
       },
       {
         "id": "IBGD203",
@@ -1063,9 +1063,9 @@
         "ugrhi": "Litoral Norte",
         "status": "Própria",
         "propria": true,
-        "amostra_inicio": "15/11/2026",
-        "amostra_final": "15/11/2026",
-        "atualizado_em": "19/11/2026"
+        "amostra_inicio": "22/11/2026",
+        "amostra_final": "22/11/2026",
+        "atualizado_em": "26/11/2026"
       },
       {
         "id": "IBCR204",
@@ -1074,9 +1074,9 @@
         "ugrhi": "Litoral Norte",
         "status": "Própria",
         "propria": true,
-        "amostra_inicio": "15/11/2026",
-        "amostra_final": "15/11/2026",
-        "atualizado_em": "19/11/2026"
+        "amostra_inicio": "22/11/2026",
+        "amostra_final": "22/11/2026",
+        "atualizado_em": "26/11/2026"
       },
       {
         "id": "IBVE205",
@@ -1085,9 +1085,9 @@
         "ugrhi": "Litoral Norte",
         "status": "Própria",
         "propria": true,
-        "amostra_inicio": "15/11/2026",
-        "amostra_final": "15/11/2026",
-        "atualizado_em": "19/11/2026"
+        "amostra_inicio": "22/11/2026",
+        "amostra_final": "22/11/2026",
+        "atualizado_em": "26/11/2026"
       }
     ],
     "BERTIOGA": [
@@ -1098,9 +1098,9 @@
         "ugrhi": "Baixada Santista",
         "status": "Própria",
         "propria": true,
-        "amostra_inicio": "15/11/2026",
-        "amostra_final": "15/11/2026",
-        "atualizado_em": "19/11/2026"
+        "amostra_inicio": "22/11/2026",
+        "amostra_final": "22/11/2026",
+        "atualizado_em": "26/11/2026"
       },
       {
         "id": "BTBO267",
@@ -1109,9 +1109,9 @@
         "ugrhi": "Baixada Santista",
         "status": "Própria",
         "propria": true,
-        "amostra_inicio": "15/11/2026",
-        "amostra_final": "15/11/2026",
-        "atualizado_em": "19/11/2026"
+        "amostra_inicio": "22/11/2026",
+        "amostra_final": "22/11/2026",
+        "atualizado_em": "26/11/2026"
       },
       {
         "id": "BTGU274",
@@ -1120,9 +1120,9 @@
         "ugrhi": "Baixada Santista",
         "status": "Própria",
         "propria": true,
-        "amostra_inicio": "15/11/2026",
-        "amostra_final": "15/11/2026",
-        "atualizado_em": "19/11/2026"
+        "amostra_inicio": "22/11/2026",
+        "amostra_final": "22/11/2026",
+        "atualizado_em": "26/11/2026"
       },
       {
         "id": "BTSL282",
@@ -1131,9 +1131,9 @@
         "ugrhi": "Baixada Santista",
         "status": "Própria",
         "propria": true,
-        "amostra_inicio": "15/11/2026",
-        "amostra_final": "15/11/2026",
-        "atualizado_em": "19/11/2026"
+        "amostra_inicio": "22/11/2026",
+        "amostra_final": "22/11/2026",
+        "atualizado_em": "26/11/2026"
       },
       {
         "id": "BTSL285",
@@ -1142,9 +1142,9 @@
         "ugrhi": "Baixada Santista",
         "status": "Própria",
         "propria": true,
-        "amostra_inicio": "15/11/2026",
-        "amostra_final": "15/11/2026",
-        "atualizado_em": "19/11/2026"
+        "amostra_inicio": "22/11/2026",
+        "amostra_final": "22/11/2026",
+        "atualizado_em": "26/11/2026"
       },
       {
         "id": "BTEN292",
@@ -1153,9 +1153,9 @@
         "ugrhi": "Baixada Santista",
         "status": "Própria",
         "propria": true,
-        "amostra_inicio": "15/11/2026",
-        "amostra_final": "15/11/2026",
-        "atualizado_em": "19/11/2026"
+        "amostra_inicio": "22/11/2026",
+        "amostra_final": "22/11/2026",
+        "atualizado_em": "26/11/2026"
       },
       {
         "id": "BTEN294",
@@ -1164,9 +1164,9 @@
         "ugrhi": "Baixada Santista",
         "status": "Própria",
         "propria": true,
-        "amostra_inicio": "15/11/2026",
-        "amostra_final": "15/11/2026",
-        "atualizado_em": "19/11/2026"
+        "amostra_inicio": "22/11/2026",
+        "amostra_final": "22/11/2026",
+        "atualizado_em": "26/11/2026"
       },
       {
         "id": "BTEN299",
@@ -1175,20 +1175,20 @@
         "ugrhi": "Baixada Santista",
         "status": "Própria",
         "propria": true,
-        "amostra_inicio": "15/11/2026",
-        "amostra_final": "15/11/2026",
-        "atualizado_em": "19/11/2026"
+        "amostra_inicio": "22/11/2026",
+        "amostra_final": "22/11/2026",
+        "atualizado_em": "26/11/2026"
       },
       {
         "id": "BTEN302",
         "ordem": 100,
         "praia": "ENSEADA  - R. R. COSTABILE",
         "ugrhi": "Baixada Santista",
-        "status": "Imprópria",
-        "propria": false,
-        "amostra_inicio": "15/11/2026",
-        "amostra_final": "15/11/2026",
-        "atualizado_em": "19/11/2026"
+        "status": "Própria",
+        "propria": true,
+        "amostra_inicio": "22/11/2026",
+        "amostra_final": "22/11/2026",
+        "atualizado_em": "26/11/2026"
       }
     ],
     "CUBATÃO": [
@@ -1199,9 +1199,9 @@
         "ugrhi": "Baixada Santista",
         "status": "Própria",
         "propria": true,
-        "amostra_inicio": "15/11/2026",
-        "amostra_final": "15/11/2026",
-        "atualizado_em": "19/11/2026"
+        "amostra_inicio": "22/11/2026",
+        "amostra_final": "22/11/2026",
+        "atualizado_em": "26/11/2026"
       }
     ],
     "GUARUJÁ": [
@@ -1213,8 +1213,8 @@
         "status": "Própria",
         "propria": true,
         "amostra_inicio": "08/11/2026",
-        "amostra_final": "15/11/2026",
-        "atualizado_em": "19/11/2026"
+        "amostra_final": "22/11/2026",
+        "atualizado_em": "26/11/2026"
       },
       {
         "id": "GJPE318",
@@ -1224,8 +1224,8 @@
         "status": "Imprópria",
         "propria": false,
         "amostra_inicio": "08/11/2026",
-        "amostra_final": "15/11/2026",
-        "atualizado_em": "19/11/2026"
+        "amostra_final": "22/11/2026",
+        "atualizado_em": "26/11/2026"
       },
       {
         "id": "GJPN324",
@@ -1235,8 +1235,8 @@
         "status": "Própria",
         "propria": true,
         "amostra_inicio": "08/11/2026",
-        "amostra_final": "15/11/2026",
-        "atualizado_em": "19/11/2026"
+        "amostra_final": "22/11/2026",
+        "atualizado_em": "26/11/2026"
       },
       {
         "id": "GJEN335",
@@ -1246,8 +1246,8 @@
         "status": "Própria",
         "propria": true,
         "amostra_inicio": "08/11/2026",
-        "amostra_final": "15/11/2026",
-        "atualizado_em": "19/11/2026"
+        "amostra_final": "22/11/2026",
+        "atualizado_em": "26/11/2026"
       },
       {
         "id": "GJEN336",
@@ -1257,8 +1257,8 @@
         "status": "Imprópria",
         "propria": false,
         "amostra_inicio": "08/11/2026",
-        "amostra_final": "15/11/2026",
-        "atualizado_em": "19/11/2026"
+        "amostra_final": "22/11/2026",
+        "atualizado_em": "26/11/2026"
       },
       {
         "id": "GJEN337",
@@ -1268,8 +1268,8 @@
         "status": "Imprópria",
         "propria": false,
         "amostra_inicio": "08/11/2026",
-        "amostra_final": "15/11/2026",
-        "atualizado_em": "19/11/2026"
+        "amostra_final": "22/11/2026",
+        "atualizado_em": "26/11/2026"
       },
       {
         "id": "GJEN338",
@@ -1279,8 +1279,8 @@
         "status": "Imprópria",
         "propria": false,
         "amostra_inicio": "08/11/2026",
-        "amostra_final": "15/11/2026",
-        "atualizado_em": "19/11/2026"
+        "amostra_final": "22/11/2026",
+        "atualizado_em": "26/11/2026"
       },
       {
         "id": "GJPT340",
@@ -1290,8 +1290,8 @@
         "status": "Própria",
         "propria": true,
         "amostra_inicio": "08/11/2026",
-        "amostra_final": "15/11/2026",
-        "atualizado_em": "19/11/2026"
+        "amostra_final": "22/11/2026",
+        "atualizado_em": "26/11/2026"
       },
       {
         "id": "GJPT341",
@@ -1301,19 +1301,19 @@
         "status": "Própria",
         "propria": true,
         "amostra_inicio": "08/11/2026",
-        "amostra_final": "15/11/2026",
-        "atualizado_em": "19/11/2026"
+        "amostra_final": "22/11/2026",
+        "atualizado_em": "26/11/2026"
       },
       {
         "id": "GJAS342",
         "ordem": 111,
         "praia": "ASTÚRIAS",
         "ugrhi": "Baixada Santista",
-        "status": "Própria",
-        "propria": true,
+        "status": "Imprópria",
+        "propria": false,
         "amostra_inicio": "08/11/2026",
-        "amostra_final": "15/11/2026",
-        "atualizado_em": "19/11/2026"
+        "amostra_final": "22/11/2026",
+        "atualizado_em": "26/11/2026"
       },
       {
         "id": "GJTB344",
@@ -1323,8 +1323,8 @@
         "status": "Própria",
         "propria": true,
         "amostra_inicio": "08/11/2026",
-        "amostra_final": "15/11/2026",
-        "atualizado_em": "19/11/2026"
+        "amostra_final": "22/11/2026",
+        "atualizado_em": "26/11/2026"
       },
       {
         "id": "GJGB354",
@@ -1334,8 +1334,8 @@
         "status": "Própria",
         "propria": true,
         "amostra_inicio": "08/11/2026",
-        "amostra_final": "15/11/2026",
-        "atualizado_em": "19/11/2026"
+        "amostra_final": "22/11/2026",
+        "atualizado_em": "26/11/2026"
       }
     ],
     "SANTOS": [
@@ -1346,20 +1346,20 @@
         "ugrhi": "Baixada Santista",
         "status": "Imprópria",
         "propria": false,
-        "amostra_inicio": "15/11/2026",
-        "amostra_final": "15/11/2026",
-        "atualizado_em": "19/11/2026"
+        "amostra_inicio": "23/11/2026",
+        "amostra_final": "23/11/2026",
+        "atualizado_em": "26/11/2026"
       },
       {
         "id": "STAP368",
         "ordem": 115,
         "praia": "APARECIDA",
         "ugrhi": "Baixada Santista",
-        "status": "Imprópria",
-        "propria": false,
-        "amostra_inicio": "15/11/2026",
-        "amostra_final": "15/11/2026",
-        "atualizado_em": "19/11/2026"
+        "status": "Própria",
+        "propria": true,
+        "amostra_inicio": "23/11/2026",
+        "amostra_final": "23/11/2026",
+        "atualizado_em": "26/11/2026"
       },
       {
         "id": "STEM369",
@@ -1368,9 +1368,9 @@
         "ugrhi": "Baixada Santista",
         "status": "Imprópria",
         "propria": false,
-        "amostra_inicio": "15/11/2026",
-        "amostra_final": "15/11/2026",
-        "atualizado_em": "19/11/2026"
+        "amostra_inicio": "23/11/2026",
+        "amostra_final": "23/11/2026",
+        "atualizado_em": "26/11/2026"
       },
       {
         "id": "STBO370",
@@ -1379,20 +1379,20 @@
         "ugrhi": "Baixada Santista",
         "status": "Imprópria",
         "propria": false,
-        "amostra_inicio": "15/11/2026",
-        "amostra_final": "15/11/2026",
-        "atualizado_em": "19/11/2026"
+        "amostra_inicio": "23/11/2026",
+        "amostra_final": "23/11/2026",
+        "atualizado_em": "26/11/2026"
       },
       {
         "id": "STGZ371",
         "ordem": 118,
         "praia": "GONZAGA",
         "ugrhi": "Baixada Santista",
-        "status": "Imprópria",
-        "propria": false,
-        "amostra_inicio": "15/11/2026",
-        "amostra_final": "15/11/2026",
-        "atualizado_em": "19/11/2026"
+        "status": "Própria",
+        "propria": true,
+        "amostra_inicio": "23/11/2026",
+        "amostra_final": "23/11/2026",
+        "atualizado_em": "26/11/2026"
       },
       {
         "id": "STJM372",
@@ -1401,9 +1401,9 @@
         "ugrhi": "Baixada Santista",
         "status": "Imprópria",
         "propria": false,
-        "amostra_inicio": "15/11/2026",
-        "amostra_final": "15/11/2026",
-        "atualizado_em": "19/11/2026"
+        "amostra_inicio": "23/11/2026",
+        "amostra_final": "23/11/2026",
+        "atualizado_em": "26/11/2026"
       },
       {
         "id": "STJM373",
@@ -1412,9 +1412,9 @@
         "ugrhi": "Baixada Santista",
         "status": "Imprópria",
         "propria": false,
-        "amostra_inicio": "15/11/2026",
-        "amostra_final": "15/11/2026",
-        "atualizado_em": "19/11/2026"
+        "amostra_inicio": "23/11/2026",
+        "amostra_final": "23/11/2026",
+        "atualizado_em": "26/11/2026"
       }
     ],
     "SÃO VICENTE": [
@@ -1425,9 +1425,9 @@
         "ugrhi": "Baixada Santista",
         "status": "Imprópria",
         "propria": false,
-        "amostra_inicio": "15/11/2026",
-        "amostra_final": "15/11/2026",
-        "atualizado_em": "19/11/2026"
+        "amostra_inicio": "22/11/2026",
+        "amostra_final": "22/11/2026",
+        "atualizado_em": "26/11/2026"
       },
       {
         "id": "SVIT374",
@@ -1436,9 +1436,9 @@
         "ugrhi": "Baixada Santista",
         "status": "Própria",
         "propria": true,
-        "amostra_inicio": "15/11/2026",
-        "amostra_final": "15/11/2026",
-        "atualizado_em": "19/11/2026"
+        "amostra_inicio": "22/11/2026",
+        "amostra_final": "22/11/2026",
+        "atualizado_em": "26/11/2026"
       },
       {
         "id": "SVIT375",
@@ -1447,9 +1447,9 @@
         "ugrhi": "Baixada Santista",
         "status": "Própria",
         "propria": true,
-        "amostra_inicio": "15/11/2026",
-        "amostra_final": "15/11/2026",
-        "atualizado_em": "19/11/2026"
+        "amostra_inicio": "22/11/2026",
+        "amostra_final": "22/11/2026",
+        "atualizado_em": "26/11/2026"
       },
       {
         "id": "SVMI377",
@@ -1458,9 +1458,9 @@
         "ugrhi": "Baixada Santista",
         "status": "Imprópria",
         "propria": false,
-        "amostra_inicio": "15/11/2026",
-        "amostra_final": "15/11/2026",
-        "atualizado_em": "19/11/2026"
+        "amostra_inicio": "22/11/2026",
+        "amostra_final": "22/11/2026",
+        "atualizado_em": "26/11/2026"
       },
       {
         "id": "SVGO377",
@@ -1469,9 +1469,9 @@
         "ugrhi": "Baixada Santista",
         "status": "Imprópria",
         "propria": false,
-        "amostra_inicio": "15/11/2026",
-        "amostra_final": "15/11/2026",
-        "atualizado_em": "19/11/2026"
+        "amostra_inicio": "22/11/2026",
+        "amostra_final": "22/11/2026",
+        "atualizado_em": "26/11/2026"
       },
       {
         "id": "SVPR380",
@@ -1480,9 +1480,9 @@
         "ugrhi": "Baixada Santista",
         "status": "Imprópria",
         "propria": false,
-        "amostra_inicio": "15/11/2026",
-        "amostra_final": "15/11/2026",
-        "atualizado_em": "19/11/2026"
+        "amostra_inicio": "22/11/2026",
+        "amostra_final": "22/11/2026",
+        "atualizado_em": "26/11/2026"
       }
     ],
     "PRAIA GRANDE": [
@@ -1493,9 +1493,9 @@
         "ugrhi": "Baixada Santista",
         "status": "Imprópria",
         "propria": false,
-        "amostra_inicio": "15/11/2026",
-        "amostra_final": "15/11/2026",
-        "atualizado_em": "19/11/2026"
+        "amostra_inicio": "22/11/2026",
+        "amostra_final": "22/11/2026",
+        "atualizado_em": "26/11/2026"
       },
       {
         "id": "PGBO393",
@@ -1504,9 +1504,9 @@
         "ugrhi": "Baixada Santista",
         "status": "Imprópria",
         "propria": false,
-        "amostra_inicio": "15/11/2026",
-        "amostra_final": "15/11/2026",
-        "atualizado_em": "19/11/2026"
+        "amostra_inicio": "22/11/2026",
+        "amostra_final": "22/11/2026",
+        "atualizado_em": "26/11/2026"
       },
       {
         "id": "PGGM395",
@@ -1515,9 +1515,9 @@
         "ugrhi": "Baixada Santista",
         "status": "Imprópria",
         "propria": false,
-        "amostra_inicio": "15/11/2026",
-        "amostra_final": "15/11/2026",
-        "atualizado_em": "19/11/2026"
+        "amostra_inicio": "22/11/2026",
+        "amostra_final": "22/11/2026",
+        "atualizado_em": "26/11/2026"
       },
       {
         "id": "PGAV397",
@@ -1526,9 +1526,9 @@
         "ugrhi": "Baixada Santista",
         "status": "Imprópria",
         "propria": false,
-        "amostra_inicio": "15/11/2026",
-        "amostra_final": "15/11/2026",
-        "atualizado_em": "19/11/2026"
+        "amostra_inicio": "22/11/2026",
+        "amostra_final": "22/11/2026",
+        "atualizado_em": "26/11/2026"
       },
       {
         "id": "PGJM398",
@@ -1537,20 +1537,20 @@
         "ugrhi": "Baixada Santista",
         "status": "Imprópria",
         "propria": false,
-        "amostra_inicio": "15/11/2026",
-        "amostra_final": "15/11/2026",
-        "atualizado_em": "19/11/2026"
+        "amostra_inicio": "22/11/2026",
+        "amostra_final": "22/11/2026",
+        "atualizado_em": "26/11/2026"
       },
       {
         "id": "PGOC400",
         "ordem": 132,
         "praia": "OCIAN",
         "ugrhi": "Baixada Santista",
-        "status": "Imprópria",
-        "propria": false,
-        "amostra_inicio": "15/11/2026",
-        "amostra_final": "15/11/2026",
-        "atualizado_em": "19/11/2026"
+        "status": "Própria",
+        "propria": true,
+        "amostra_inicio": "22/11/2026",
+        "amostra_final": "22/11/2026",
+        "atualizado_em": "26/11/2026"
       },
       {
         "id": "PGVM401",
@@ -1559,9 +1559,9 @@
         "ugrhi": "Baixada Santista",
         "status": "Imprópria",
         "propria": false,
-        "amostra_inicio": "15/11/2026",
-        "amostra_final": "15/11/2026",
-        "atualizado_em": "19/11/2026"
+        "amostra_inicio": "22/11/2026",
+        "amostra_final": "22/11/2026",
+        "atualizado_em": "26/11/2026"
       },
       {
         "id": "PGMA404",
@@ -1570,9 +1570,9 @@
         "ugrhi": "Baixada Santista",
         "status": "Imprópria",
         "propria": false,
-        "amostra_inicio": "15/11/2026",
-        "amostra_final": "15/11/2026",
-        "atualizado_em": "19/11/2026"
+        "amostra_inicio": "22/11/2026",
+        "amostra_final": "22/11/2026",
+        "atualizado_em": "26/11/2026"
       },
       {
         "id": "PGVC406",
@@ -1581,9 +1581,9 @@
         "ugrhi": "Baixada Santista",
         "status": "Imprópria",
         "propria": false,
-        "amostra_inicio": "15/11/2026",
-        "amostra_final": "15/11/2026",
-        "atualizado_em": "19/11/2026"
+        "amostra_inicio": "22/11/2026",
+        "amostra_final": "22/11/2026",
+        "atualizado_em": "26/11/2026"
       },
       {
         "id": "PGBF410",
@@ -1592,9 +1592,9 @@
         "ugrhi": "Baixada Santista",
         "status": "Imprópria",
         "propria": false,
-        "amostra_inicio": "15/11/2026",
-        "amostra_final": "15/11/2026",
-        "atualizado_em": "19/11/2026"
+        "amostra_inicio": "22/11/2026",
+        "amostra_final": "22/11/2026",
+        "atualizado_em": "26/11/2026"
       },
       {
         "id": "PGFL411",
@@ -1603,9 +1603,9 @@
         "ugrhi": "Baixada Santista",
         "status": "Imprópria",
         "propria": false,
-        "amostra_inicio": "15/11/2026",
-        "amostra_final": "15/11/2026",
-        "atualizado_em": "19/11/2026"
+        "amostra_inicio": "22/11/2026",
+        "amostra_final": "22/11/2026",
+        "atualizado_em": "26/11/2026"
       },
       {
         "id": "PGJS413",
@@ -1614,9 +1614,9 @@
         "ugrhi": "Baixada Santista",
         "status": "Imprópria",
         "propria": false,
-        "amostra_inicio": "15/11/2026",
-        "amostra_final": "15/11/2026",
-        "atualizado_em": "19/11/2026"
+        "amostra_inicio": "22/11/2026",
+        "amostra_final": "22/11/2026",
+        "atualizado_em": "26/11/2026"
       }
     ],
     "MONGAGUÁ": [
@@ -1627,9 +1627,9 @@
         "ugrhi": "Baixada Santista",
         "status": "Imprópria",
         "propria": false,
-        "amostra_inicio": "15/11/2026",
-        "amostra_final": "15/11/2026",
-        "atualizado_em": "19/11/2026"
+        "amostra_inicio": "22/11/2026",
+        "amostra_final": "22/11/2026",
+        "atualizado_em": "26/11/2026"
       },
       {
         "id": "MACE417",
@@ -1638,9 +1638,9 @@
         "ugrhi": "Baixada Santista",
         "status": "Imprópria",
         "propria": false,
-        "amostra_inicio": "15/11/2026",
-        "amostra_final": "15/11/2026",
-        "atualizado_em": "19/11/2026"
+        "amostra_inicio": "22/11/2026",
+        "amostra_final": "22/11/2026",
+        "atualizado_em": "26/11/2026"
       },
       {
         "id": "MAVC419",
@@ -1649,9 +1649,9 @@
         "ugrhi": "Baixada Santista",
         "status": "Imprópria",
         "propria": false,
-        "amostra_inicio": "15/11/2026",
-        "amostra_final": "15/11/2026",
-        "atualizado_em": "19/11/2026"
+        "amostra_inicio": "22/11/2026",
+        "amostra_final": "22/11/2026",
+        "atualizado_em": "26/11/2026"
       },
       {
         "id": "MASE421",
@@ -1660,9 +1660,9 @@
         "ugrhi": "Baixada Santista",
         "status": "Imprópria",
         "propria": false,
-        "amostra_inicio": "15/11/2026",
-        "amostra_final": "15/11/2026",
-        "atualizado_em": "19/11/2026"
+        "amostra_inicio": "22/11/2026",
+        "amostra_final": "22/11/2026",
+        "atualizado_em": "26/11/2026"
       },
       {
         "id": "MAIT423",
@@ -1671,9 +1671,9 @@
         "ugrhi": "Baixada Santista",
         "status": "Imprópria",
         "propria": false,
-        "amostra_inicio": "15/11/2026",
-        "amostra_final": "15/11/2026",
-        "atualizado_em": "19/11/2026"
+        "amostra_inicio": "22/11/2026",
+        "amostra_final": "22/11/2026",
+        "atualizado_em": "26/11/2026"
       },
       {
         "id": "MAAC425",
@@ -1682,9 +1682,9 @@
         "ugrhi": "Baixada Santista",
         "status": "Imprópria",
         "propria": false,
-        "amostra_inicio": "15/11/2026",
-        "amostra_final": "15/11/2026",
-        "atualizado_em": "19/11/2026"
+        "amostra_inicio": "22/11/2026",
+        "amostra_final": "22/11/2026",
+        "atualizado_em": "26/11/2026"
       },
       {
         "id": "MAFM427",
@@ -1693,9 +1693,9 @@
         "ugrhi": "Baixada Santista",
         "status": "Imprópria",
         "propria": false,
-        "amostra_inicio": "15/11/2026",
-        "amostra_final": "15/11/2026",
-        "atualizado_em": "19/11/2026"
+        "amostra_inicio": "22/11/2026",
+        "amostra_final": "22/11/2026",
+        "atualizado_em": "26/11/2026"
       }
     ],
     "ITANHAÉM": [
@@ -1706,9 +1706,9 @@
         "ugrhi": "Baixada Santista",
         "status": "Própria",
         "propria": true,
-        "amostra_inicio": "15/11/2026",
-        "amostra_final": "15/11/2026",
-        "atualizado_em": "19/11/2026"
+        "amostra_inicio": "22/11/2026",
+        "amostra_final": "22/11/2026",
+        "atualizado_em": "26/11/2026"
       },
       {
         "id": "ITSU432",
@@ -1717,9 +1717,9 @@
         "ugrhi": "Baixada Santista",
         "status": "Própria",
         "propria": true,
-        "amostra_inicio": "15/11/2026",
-        "amostra_final": "15/11/2026",
-        "atualizado_em": "19/11/2026"
+        "amostra_inicio": "22/11/2026",
+        "amostra_final": "22/11/2026",
+        "atualizado_em": "26/11/2026"
       },
       {
         "id": "ITSU433",
@@ -1728,9 +1728,9 @@
         "ugrhi": "Baixada Santista",
         "status": "Imprópria",
         "propria": false,
-        "amostra_inicio": "15/11/2026",
-        "amostra_final": "15/11/2026",
-        "atualizado_em": "19/11/2026"
+        "amostra_inicio": "22/11/2026",
+        "amostra_final": "22/11/2026",
+        "atualizado_em": "26/11/2026"
       },
       {
         "id": "ITPB434",
@@ -1739,9 +1739,9 @@
         "ugrhi": "Baixada Santista",
         "status": "Imprópria",
         "propria": false,
-        "amostra_inicio": "15/11/2026",
-        "amostra_final": "15/11/2026",
-        "atualizado_em": "19/11/2026"
+        "amostra_inicio": "22/11/2026",
+        "amostra_final": "22/11/2026",
+        "atualizado_em": "26/11/2026"
       },
       {
         "id": "ITCE436",
@@ -1750,9 +1750,9 @@
         "ugrhi": "Baixada Santista",
         "status": "Imprópria",
         "propria": false,
-        "amostra_inicio": "15/11/2026",
-        "amostra_final": "15/11/2026",
-        "atualizado_em": "19/11/2026"
+        "amostra_inicio": "22/11/2026",
+        "amostra_final": "22/11/2026",
+        "atualizado_em": "26/11/2026"
       },
       {
         "id": "ITPE437",
@@ -1761,9 +1761,9 @@
         "ugrhi": "Baixada Santista",
         "status": "Imprópria",
         "propria": false,
-        "amostra_inicio": "15/11/2026",
-        "amostra_final": "15/11/2026",
-        "atualizado_em": "19/11/2026"
+        "amostra_inicio": "22/11/2026",
+        "amostra_final": "22/11/2026",
+        "atualizado_em": "26/11/2026"
       },
       {
         "id": "ITSO438",
@@ -1772,9 +1772,9 @@
         "ugrhi": "Baixada Santista",
         "status": "Imprópria",
         "propria": false,
-        "amostra_inicio": "15/11/2026",
-        "amostra_final": "15/11/2026",
-        "atualizado_em": "19/11/2026"
+        "amostra_inicio": "22/11/2026",
+        "amostra_final": "22/11/2026",
+        "atualizado_em": "26/11/2026"
       },
       {
         "id": "ITCI441",
@@ -1783,9 +1783,9 @@
         "ugrhi": "Baixada Santista",
         "status": "Imprópria",
         "propria": false,
-        "amostra_inicio": "15/11/2026",
-        "amostra_final": "15/11/2026",
-        "atualizado_em": "19/11/2026"
+        "amostra_inicio": "22/11/2026",
+        "amostra_final": "22/11/2026",
+        "atualizado_em": "26/11/2026"
       },
       {
         "id": "ITEB443",
@@ -1794,9 +1794,9 @@
         "ugrhi": "Baixada Santista",
         "status": "Imprópria",
         "propria": false,
-        "amostra_inicio": "15/11/2026",
-        "amostra_final": "15/11/2026",
-        "atualizado_em": "19/11/2026"
+        "amostra_inicio": "22/11/2026",
+        "amostra_final": "22/11/2026",
+        "atualizado_em": "26/11/2026"
       },
       {
         "id": "ITSF446",
@@ -1805,9 +1805,9 @@
         "ugrhi": "Baixada Santista",
         "status": "Imprópria",
         "propria": false,
-        "amostra_inicio": "15/11/2026",
-        "amostra_final": "15/11/2026",
-        "atualizado_em": "19/11/2026"
+        "amostra_inicio": "22/11/2026",
+        "amostra_final": "22/11/2026",
+        "atualizado_em": "26/11/2026"
       },
       {
         "id": "ITJR449",
@@ -1816,9 +1816,9 @@
         "ugrhi": "Baixada Santista",
         "status": "Imprópria",
         "propria": false,
-        "amostra_inicio": "15/11/2026",
-        "amostra_final": "15/11/2026",
-        "atualizado_em": "19/11/2026"
+        "amostra_inicio": "22/11/2026",
+        "amostra_final": "22/11/2026",
+        "atualizado_em": "26/11/2026"
       },
       {
         "id": "ITBG451",
@@ -1827,9 +1827,9 @@
         "ugrhi": "Baixada Santista",
         "status": "Imprópria",
         "propria": false,
-        "amostra_inicio": "15/11/2026",
-        "amostra_final": "15/11/2026",
-        "atualizado_em": "19/11/2026"
+        "amostra_inicio": "22/11/2026",
+        "amostra_final": "22/11/2026",
+        "atualizado_em": "26/11/2026"
       }
     ],
     "PERUÍBE": [
@@ -1840,9 +1840,9 @@
         "ugrhi": "Baixada Santista",
         "status": "Imprópria",
         "propria": false,
-        "amostra_inicio": "15/11/2026",
-        "amostra_final": "15/11/2026",
-        "atualizado_em": "19/11/2026"
+        "amostra_inicio": "22/11/2026",
+        "amostra_final": "22/11/2026",
+        "atualizado_em": "26/11/2026"
       },
       {
         "id": "PRPT458",
@@ -1851,9 +1851,9 @@
         "ugrhi": "Baixada Santista",
         "status": "Imprópria",
         "propria": false,
-        "amostra_inicio": "15/11/2026",
-        "amostra_final": "15/11/2026",
-        "atualizado_em": "19/11/2026"
+        "amostra_inicio": "22/11/2026",
+        "amostra_final": "22/11/2026",
+        "atualizado_em": "26/11/2026"
       },
       {
         "id": "PRBS460",
@@ -1862,9 +1862,9 @@
         "ugrhi": "Baixada Santista",
         "status": "Imprópria",
         "propria": false,
-        "amostra_inicio": "15/11/2026",
-        "amostra_final": "15/11/2026",
-        "atualizado_em": "19/11/2026"
+        "amostra_inicio": "22/11/2026",
+        "amostra_final": "22/11/2026",
+        "atualizado_em": "26/11/2026"
       },
       {
         "id": "PRSJ463",
@@ -1873,9 +1873,9 @@
         "ugrhi": "Baixada Santista",
         "status": "Própria",
         "propria": true,
-        "amostra_inicio": "15/11/2026",
-        "amostra_final": "15/11/2026",
-        "atualizado_em": "19/11/2026"
+        "amostra_inicio": "22/11/2026",
+        "amostra_final": "22/11/2026",
+        "atualizado_em": "26/11/2026"
       },
       {
         "id": "PRPR466",
@@ -1884,9 +1884,9 @@
         "ugrhi": "Baixada Santista",
         "status": "Própria",
         "propria": true,
-        "amostra_inicio": "15/11/2026",
-        "amostra_final": "15/11/2026",
-        "atualizado_em": "19/11/2026"
+        "amostra_inicio": "22/11/2026",
+        "amostra_final": "22/11/2026",
+        "atualizado_em": "26/11/2026"
       },
       {
         "id": "PRGU469",
@@ -1895,9 +1895,9 @@
         "ugrhi": "Baixada Santista",
         "status": "Própria",
         "propria": true,
-        "amostra_inicio": "15/11/2026",
-        "amostra_final": "15/11/2026",
-        "atualizado_em": "19/11/2026"
+        "amostra_inicio": "22/11/2026",
+        "amostra_final": "22/11/2026",
+        "atualizado_em": "26/11/2026"
       }
     ],
     "IGUAPE": [
@@ -1910,7 +1910,7 @@
         "propria": true,
         "amostra_inicio": "08/11/2026",
         "amostra_final": "08/11/2026",
-        "atualizado_em": "19/11/2026"
+        "atualizado_em": "26/11/2026"
       }
     ],
     "ILHA COMPRIDA": [
@@ -1923,7 +1923,7 @@
         "propria": true,
         "amostra_inicio": "08/11/2026",
         "amostra_final": "08/11/2026",
-        "atualizado_em": "19/11/2026"
+        "atualizado_em": "26/11/2026"
       },
       {
         "id": "ICCE552",
@@ -1934,7 +1934,7 @@
         "propria": true,
         "amostra_inicio": "08/11/2026",
         "amostra_final": "08/11/2026",
-        "atualizado_em": "19/11/2026"
+        "atualizado_em": "26/11/2026"
       },
       {
         "id": "ICPO600",
@@ -1945,7 +1945,7 @@
         "propria": true,
         "amostra_inicio": "08/11/2026",
         "amostra_final": "08/11/2026",
-        "atualizado_em": "19/11/2026"
+        "atualizado_em": "26/11/2026"
       },
       {
         "id": "ICBS607",
@@ -1956,7 +1956,7 @@
         "propria": true,
         "amostra_inicio": "08/11/2026",
         "amostra_final": "08/11/2026",
-        "atualizado_em": "19/11/2026"
+        "atualizado_em": "26/11/2026"
       }
     ]
   }
